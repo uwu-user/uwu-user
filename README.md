@@ -37,13 +37,13 @@ _Anyway, enjoy your time =3_
 
 | 86% » [![JavaScript](https://img.shields.io/badge/-|%20JavaScript-black?style=flat-square&logo=javascript)](https://github.com/fifth-uwu-user)
 -
-| 63% » [![pawno](https://img.shields.io/badge/-|%20Pawno-black?style=flat-square&logo=pawno)](https://github.com/fifth-uwu-user) 
+| 64% » [![pawno](https://img.shields.io/badge/-|%20Pawno-black?style=flat-square&logo=pawno)](https://github.com/fifth-uwu-user) 
 -
-| 27% » [![C++](https://img.shields.io/badge/-|%20C++-black?style=flat-square&logo=c)](https://github.com/fifth-uwu-user) 
+| 26% » [![C++](https://img.shields.io/badge/-|%20C++-black?style=flat-square&logo=c)](https://github.com/fifth-uwu-user) 
 -
 | 11% » [![Python](https://img.shields.io/badge/-|%20Python-black?style=flat&logo=python)](https://github.com/fifth-uwu-user) 
 -
-| 4%~ » [![Other](https://img.shields.io/badge/-|%20Other-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://github.com/fifth-uwu-user) 
+| 3%~ » [![Other](https://img.shields.io/badge/-|%20Other-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://github.com/fifth-uwu-user) 
 -
 ---
 
@@ -65,18 +65,18 @@ _Anyway, enjoy your time =3_
 - :T | I don't care about that anyway **OwO?**"
 - :u | I don't care what some say about me **UwU**
 
-</div>
+</div> 
 </details>
 
 ---
 
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=uwu-user&show_icons=true&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=uwu-user&&hide=java,html&title_color=2F58FF&show_icons=true&theme=dark" />
   </p>
    
 ---
   
-  <p>
+  <p> 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=uwu-user&show_icons=true&theme=dark" />
 </p>
 
@@ -95,7 +95,7 @@ _Anyway, enjoy your time =3_
 ---
 
   <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwu-user&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwu-user&hide=java,html&title_color=2F58FF&theme=dark" />
 </p>
 
 ---
