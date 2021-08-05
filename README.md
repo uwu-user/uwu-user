@@ -35,15 +35,15 @@ _Anyway, enjoy your time =3_
 
 **My current level of experience =3**
 
-| 86% » [![JavaScript](https://img.shields.io/badge/-|%20JavaScript-black?style=flat-square&logo=javascript)](https://github.com/uwu-user)
+| 89% » [![JavaScript](https://img.shields.io/badge/-|%20JavaScript-black?style=flat-square&logo=javascript)](https://github.com/uwu-user)
 -
-| 64% » [![pawno](https://img.shields.io/badge/-|%20Pawno-black?style=flat-square&logo=pawno)](https://github.com/uwu-user) 
+| 41% » [![pawno](https://img.shields.io/badge/-|%20Pawno-black?style=flat-square&logo=pawno)](https://github.com/uwu-user) 
 -
-| 26% » [![C++](https://img.shields.io/badge/-|%20C++-black?style=flat-square&logo=c)](https://github.com/uwu-user) 
+| 15% » [![C++](https://img.shields.io/badge/-|%20C++-black?style=flat-square&logo=c)](https://github.com/uwu-user) 
 -
-| 11% » [![Python](https://img.shields.io/badge/-|%20Python-black?style=flat&logo=python)](https://github.com/uwu-user) 
+| 8% » [![Python](https://img.shields.io/badge/-|%20Python-black?style=flat&logo=python)](https://github.com/uwu-user) 
 -
-| 3%~ » [![Other](https://img.shields.io/badge/-|%20Other-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://github.com/uwu-user) 
+| 5%~ » [![Other](https://img.shields.io/badge/-|%20Other-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://github.com/uwu-user) 
 -
 ---
 
