@@ -9,10 +9,6 @@ _Anyway, enjoy your time =3_
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&fontSize=50&fontAlign=20&fontAlignY=20&color=gradient" alt="logo">
 
----
-
-**=3?**
-
 **∞ |** [![Twitter](https://img.shields.io/badge/-twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/uwu-user)
 
 **∞ |** [![Github](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/uwu-user) 
