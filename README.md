@@ -96,7 +96,7 @@
 ---
 
 <p>
-    <img src="https://activity-graph.herokuapp.com/graph?username=uwu-user&theme=rogue">
+    <img src="https://activity-graph.herokuapp.com/graph?username=uwu-user&theme=react-dark">
 </p> 
 
 
