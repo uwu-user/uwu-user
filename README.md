@@ -86,7 +86,7 @@
   <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uwu-user&hide=java,html&title_color=2F58FF&theme=dark" />
 </p>
-
+ 
 ---
 
   <p>
@@ -95,6 +95,13 @@
 
 ---
 
+<p>
+    <img src="https://activity-graph.herokuapp.com/graph?username=uwu-user&theme=rogue">
+</p> 
+
+
+  ---
+  
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uwu-user&theme=github_dark" />
 </p>
@@ -104,7 +111,7 @@
   <p>
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text==3&fontAlignY=50&fontSize=40&height=150&animation=twinkling" />
 </p>
-
+ 
 ---
 
 <details>
