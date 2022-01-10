@@ -22,7 +22,7 @@
 
 **∞ |** [![spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/uwu-user)
 
-**∞ |** [![dev.to](https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white)](https://dev.to/uwu-user)
+**∞ |** [![dev.to](https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white)](https://dev.to/uwu_user)
 
 ---
 
