@@ -12,7 +12,7 @@
 
 **∞ |** [![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube)](https://youtube.com/channel/uwu-user) 
 
-**∞ |** [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/uwu-user) 
+**∞ |** [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076794891939)
 
 **∞ |** [![Instagram](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/unknown-uwu-user/) 
 
