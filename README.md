@@ -1,14 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=UwU&fontSize=90&animation=twinkling&fontAlignY=38" alt="UwU">
 
-## Owo? <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+<img src="https://raw.githubusercontent.com/uwu-user/uwu-user/main/assets/owo%3F.png" width="150px" alt="hi">
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&fontSize=50&fontAlign=20&fontAlignY=20&color=gradient" alt="logo">
-
 **∞ |** [![Twitter](https://img.shields.io/badge/-twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/uwu_user_)
-
-**∞ |** [![Github](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github)](https://github.com/uwu-user) 
 
 **∞ |** [![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube)](https://youtube.com/channel/uwu-user) 
 
@@ -26,36 +22,10 @@
 
 ---
 
-**My current level of experience =3**
-
-| 84% » [![JavaScript](https://img.shields.io/badge/-|%20JavaScript-black?style=flat-square&logo=javascript)](https://github.com/uwu-user)
--
-| 31% » [![pawno](https://img.shields.io/badge/-|%20Pawno-black?style=flat-square&logo=pawno)](https://github.com/uwu-user) 
--
-| 10%~ » [![Other](https://img.shields.io/badge/-|%20Other-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://github.com/uwu-user) 
--
----
-
 <p>
     <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=OwO&fontSize=40&animation=twinkling" />
 </p>
 
-
----
-
-<details>
-<summary>
-  informations
-</summary>
-<br >
-
----
-- :c | I don't use Github much so my stats should be like this **O~O**
-- :T | I don't care about that anyway **OwO?**"
-- :u | I don't care what some say about me **UwU**
-
-</div> 
-</details>
 
 ---
 
@@ -111,24 +81,8 @@
   <p>
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text==3&fontAlignY=50&fontSize=40&height=150&animation=twinkling" />
 </p>
- 
----
-
-<details>
-<summary>
-  Additional information
-</summary>
-
---- 
-
-- **There is a button called "Owo Follow" that you have to click =3?**
-
-</div>
-</details>
 
 ---
-
-#### Profile 
 
 ![Profile views](https://gpvc.arturio.dev/uwu-user)
 
