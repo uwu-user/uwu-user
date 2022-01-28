@@ -12,7 +12,7 @@
 
 **∞ |** [![Instagram](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/unknown-uwu-user/) 
 
-**∞ |** [![Gmail](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:uwu-user@gmail.com)
+**∞ |** [![Gmail](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:deleted@gmail.com)
 
 **∞ |** [![pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat&logo=Pinterest&logoColor=white)](https://www.pinterest.ca/uwu-user)
 
@@ -22,10 +22,20 @@
 
 ---
 
+
 <p>
     <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=OwO&fontSize=40&animation=twinkling" />
 </p>
 
+
+---
+
+<details>
+<summary>
+  Githud Stats
+</summary>
+
+<br >
 
 ---
 
@@ -69,18 +79,14 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=uwu-user&theme=react-dark">
 </p> 
 
-
   ---
   
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uwu-user&theme=github_dark" />
 </p>
 
----
-
-  <p>
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&text==3&fontAlignY=50&fontSize=40&height=150&animation=twinkling" />
-</p>
+</div>
+</details>
 
 ---
 
