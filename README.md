@@ -6,7 +6,7 @@
 
 **∞ |** [![Twitter](https://img.shields.io/badge/-twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/uwu_user_)
 
-**∞ |** [![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube)](https://youtube.com/channel/uwu-user) 
+**∞ |** [![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube)](https://youtube.com/channel/UCSotyxFA8QyK4dHZ3X1GjZA)
 
 **∞ |** [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100076794891939)
 
