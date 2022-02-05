@@ -14,7 +14,7 @@
 
 **∞ |** [![Gmail](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:deleted@gmail.com)
 
-**∞ |** [![pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat&logo=Pinterest&logoColor=white)](https://www.pinterest.ca/uwu-user)
+**∞ |** [![pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat&logo=Pinterest&logoColor=white)](https://www.pinterest.com/uwu-user)
 
 **∞ |** [![spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/uwu-user)
 
