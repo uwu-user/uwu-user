@@ -4,7 +4,7 @@
 
 ---
 
-**∞ |** [![Twitter](https://img.shields.io/badge/-twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/uwu_user_)
+**∞ |** [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/uwu_user_)
 
 **∞ |** [![Youtube](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube)](https://youtube.com/channel/UCSotyxFA8QyK4dHZ3X1GjZA)
 
@@ -18,7 +18,9 @@
 
 **∞ |** [![spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/uwu-user)
 
-**∞ |** [![dev.to](https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white)](https://dev.to/uwu_user)
+**∞ |** [![CodePen](https://img.shields.io/badge/CodePen-%230A0A0A.svg?&style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/uwu-user)
+
+**∞ |** [![dev.to](https://img.shields.io/badge/Dev-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white)](https://dev.to/uwu_user)
 
 ---
 
