@@ -16,7 +16,7 @@
 
 **∞ |** [![pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat&logo=Pinterest&logoColor=white)](https://www.pinterest.com/uwu-user)
 
-**∞ |** [![spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/uwu-user)
+**∞ |** [![spotify](https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white)](https://open.spotify.com/user/31ibctjgi2bmpfnbngwqrbvpvt2y?si=JN2gDfnrRuOD9Gh5rPdkzg&utm_source=copy-link)
 
 **∞ |** [![CodePen](https://img.shields.io/badge/CodePen-%230A0A0A.svg?&style=flat-square&logo=codepen&logoColor=white)](https://codepen.io/uwu-user)
 
