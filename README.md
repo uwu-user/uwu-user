@@ -29,6 +29,18 @@
     <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&text=OwO&fontSize=40&animation=twinkling" />
 </p>
 
+---
+
+• Discoed
+<p>
+   <img src="https://lanyard-profile-readme.vercel.app/api/724372814307524628?theme=dark&animated=true&hideDiscrim=false&borderRadius=10px&idleMessage=can%20yowo%20Pwease%20Fowlluwu%20me%20:'3?" />
+</p>
+
+• Spotify 
+<p>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ibctjgi2bmpfnbngwqrbvpvt2y&cover_image=true&theme=novatorem&bar_color=0000ff&bar_color_cover=false" />
+</p> 
+
 
 ---
 
