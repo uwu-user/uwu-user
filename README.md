@@ -40,7 +40,7 @@
 
 <details>
 <summary>
-  Githud Stats
+  more?
 </summary>
 
 <br >
