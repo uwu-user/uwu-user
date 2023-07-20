@@ -76,7 +76,9 @@
 
 ---
 
-![Profile views](https://gpvc.arturio.dev/uwu-user)
+![Profile views](https://komarev.com/ghpvc/?username=uwu-user&style=for-the-badge)
+
+
 
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Owo&animation=twinkling&fontAlignY=62&fontSize=100" alt="Owo">
