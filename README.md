@@ -76,7 +76,7 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=uwu-user&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=uwu-user&color=blueviolet&style=flat)
 
 
 
